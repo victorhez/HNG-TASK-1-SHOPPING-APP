@@ -4,7 +4,7 @@ Sure! Here’s a detailed README file content for your Flutter app:
 
 # HNG Ecommerce App
 
-![App Screenshot](path/to/your/screenshot.png)
+![App Screenshot](Screenshot1.png)
 
 ## Table of Contents
 
